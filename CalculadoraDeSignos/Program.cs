@@ -10,6 +10,8 @@ namespace CalculadoraDeSignos
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Meu primeiro projeto com C#");
+            Console.ReadLine();
         }
     }
 }
